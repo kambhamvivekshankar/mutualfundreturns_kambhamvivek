@@ -10,4 +10,5 @@ Additional options include
 If these options are not provided, default values are taken for program to run
 
 *All values are fetched from `https://www.mfapi.in/`.*
-*To build project using maven please refer `https://spring.io/quickstart`*
+*To build project using maven please refer `https://spring.io/quickstart`.*
+*commands `mvnw clean package` on windows. `Dmaven.test.failure.ignore=true` to ignore test cases*
